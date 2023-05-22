@@ -13,16 +13,16 @@
 
 #include <map>
 
-#define WIFI_SSID         ""   //wifi name  
-#define WIFI_PASS         ""   //wifi password
-#define APP_KEY           ""      //app key 
-#define APP_SECRET        ""  //app secerat
+#define WIFI_SSID         "LAPTOP-6RALIVVH"    
+#define WIFI_PASS         "Asdf@1234"
+#define APP_KEY           "9ab7b2b9-48be-44dd-879c-5c852336a81d"    
+#define APP_SECRET        "a674d9bc-73d0-4348-956e-e8f43ff88707-02db2839-ad48-4d0e-85b4-46846da9ec98"  
 
 //Enter the device IDs here
-#define device_ID_1   ""   //device keys id
-#define device_ID_2   ""  //device keys id
-#define device_ID_3   ""  //device keys id
-#define device_ID_4   ""   //device keys id
+#define device_ID_1   "645a9687929949c1da62bf5b"
+#define device_ID_2   "645a9668743f91207014c36d"
+#define device_ID_3   "645a9614743f91207014c306"
+#define device_ID_4   "645a9687929949c1da62bf5b"
 
 // define the GPIO connected with Relays and switches
 #define RelayPin1 5  //D1
